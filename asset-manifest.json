@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "https://atulsucasa.github.io/react-native-firebase-auth/static/js/main.49a918fa.chunk.js",
+    "main.js.map": "https://atulsucasa.github.io/react-native-firebase-auth/static/js/main.49a918fa.chunk.js.map",
+    "runtime-main.js": "https://atulsucasa.github.io/react-native-firebase-auth/static/js/runtime-main.eae2e2bb.js",
+    "runtime-main.js.map": "https://atulsucasa.github.io/react-native-firebase-auth/static/js/runtime-main.eae2e2bb.js.map",
+    "static/js/2.86a11fe6.chunk.js": "https://atulsucasa.github.io/react-native-firebase-auth/static/js/2.86a11fe6.chunk.js",
+    "static/js/2.86a11fe6.chunk.js.map": "https://atulsucasa.github.io/react-native-firebase-auth/static/js/2.86a11fe6.chunk.js.map",
+    "index.html": "https://atulsucasa.github.io/react-native-firebase-auth/index.html",
+    "static/js/2.86a11fe6.chunk.js.LICENSE.txt": "https://atulsucasa.github.io/react-native-firebase-auth/static/js/2.86a11fe6.chunk.js.LICENSE.txt",
+    "static/media/AntDesign.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/AntDesign.163adab9.ttf",
+    "static/media/Entypo.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/Entypo.fc616934.ttf",
+    "static/media/EvilIcons.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/EvilIcons.699664b3.ttf",
+    "static/media/Feather.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/Feather.0f5d9ced.ttf",
+    "static/media/FontAwesome.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/FontAwesome.1e59d233.ttf",
+    "static/media/Fontisto.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/Fontisto.c0edd688.ttf",
+    "static/media/Foundation.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/Foundation.c0cbb004.ttf",
+    "static/media/Ionicons.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/Ionicons.3517aeaa.ttf",
+    "static/media/MaterialCommunityIcons.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/MaterialCommunityIcons.5d42b4e6.ttf",
+    "static/media/MaterialIcons.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/MaterialIcons.120b4c7b.ttf",
+    "static/media/Octicons.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/Octicons.6b742a23.ttf",
+    "static/media/SimpleLineIcons.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/SimpleLineIcons.3ec13a24.ttf",
+    "static/media/Zocial.ttf": "https://atulsucasa.github.io/react-native-firebase-auth/static/media/Zocial.07fea2ac.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eae2e2bb.js",
+    "static/js/2.86a11fe6.chunk.js",
+    "static/js/main.49a918fa.chunk.js"
+  ]
+}
